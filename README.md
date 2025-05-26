@@ -168,11 +168,4 @@ model/oct_model.pth
 
 ---
 
-Let me know if you'd like to include:
-
-* A sample training loss chart 📉
-* GPU/Colab training instructions ⚙️
-* Tips for handling large datasets in GitHub
-
-You're now ready to impress in your interview — this shows **hands-on deep learning + healthcare domain knowledge**! 💯
 
