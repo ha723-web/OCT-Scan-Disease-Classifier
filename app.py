@@ -16,7 +16,7 @@ if uploaded:
     with open(file_path, "wb") as f:
         f.write(uploaded.read())
 
-    st.image(Image.open(file_path), caption="Uploaded OCT Image", use_column_width=True)
+    st.image(Image.open(file_path), caption="Uploaded OCT Image", use_container_width=True)
 
     prediction = predict_oct_image(file_path)
     st.subheader(f"🧠 Predicted Class: `{prediction}`")
