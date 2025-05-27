@@ -2,6 +2,8 @@
 
 A simple AI-powered web app that classifies **OCT retinal scans** into four categories: **CNV**, **DME**, **DRUSEN**, or **NORMAL**. Built using PyTorch and Streamlit, it's designed to help raise awareness and support early eye disease screening.
 
+**LINK TO THE APP : https://oct-scan-disease-classifier.streamlit.app/** 
+
 ---
 
 ## 📖 What Is OCT and Why It Matters
